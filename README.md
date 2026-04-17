@@ -1,6 +1,7 @@
+[README (2).md](https://github.com/user-attachments/files/26841111/README.2.md)
 <!-- Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0066FF,100:00CFFF&height=200&section=header&text=bakialtan&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Blockchain%20Developer%20·%20Arc%20Network&descAlignY=58&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0066FF,100:00CFFF&height=200&section=header&text=Nizamettin+Erden&fontSize=45&fontColor=ffffff&fontAlignY=38&desc=Blockchain%20Developer%20·%20Arc%20Network&descAlignY=58&descSize=18" width="100%"/>
 </div>
 
 <!-- Typing animation -->
@@ -15,7 +16,8 @@
 ## ⚡ Who am I?
 
 ```ts
-const bakialtan = {
+const nizamettin = {
+  name      : "Nizamettin Erden",
   role      : "Blockchain Developer",
   chain     : "Arc Network (EVM Compatible L1)",
   focus     : ["Smart Contracts", "DeFi", "Stablecoin Payments", "AI Agents"],
@@ -79,9 +81,10 @@ const bakialtan = {
 
 <div align="center">
 
+[![GitHub](https://img.shields.io/badge/GitHub-bakialtan-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bakialtan)
+[![X](https://img.shields.io/badge/X-@Kasey__nftci-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Kasey_nftci)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nizamettin_Erden-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nizamettin-erden-b99462404/)
 [![Arc Community](https://img.shields.io/badge/Arc_Community-Join-0066FF?style=for-the-badge&logo=ethereum&logoColor=white)](https://community.arc.network)
-[![Arc Docs](https://img.shields.io/badge/Arc_Docs-Read-00CFFF?style=for-the-badge&logo=readthedocs&logoColor=white)](https://docs.arc.network)
-[![Arc Explorer](https://img.shields.io/badge/Arc_Explorer-Explore-0099FF?style=for-the-badge&logo=ethereum&logoColor=white)](https://testnet.arcscan.app)
 
 </div>
 
